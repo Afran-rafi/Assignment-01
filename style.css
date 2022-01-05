@@ -88,6 +88,7 @@ body{
     margin-top: 5%;
     margin-left: 15%;
     margin-right: 10%;
+    
 }
 
 .pic-coding img{
@@ -113,6 +114,10 @@ body{
 
 /* part 4 finished */
 /* Optional part */
+
+.part-5th{
+    margin-top: 10%;
+}
 
 .Main-Card{
     display: flex;
